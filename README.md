@@ -1,2 +1,2 @@
-# fb_checker
-Check if an email or phone number to username if is associated with a facebook account , and get some information about the account
+# FB checker
+Check if an email OR phone number OR a facebook username if is associated with a facebook account , and get some information about the account.
