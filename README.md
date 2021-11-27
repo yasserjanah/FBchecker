@@ -4,7 +4,7 @@
 
 Kindly check the new version, it's 100% working and very fast.
 
-![HERE] (https://github.com/yasserjanah/FacebookChecker)
+<a href="https://github.com/yasserjanah/FacebookChecker">Here</a>
 
 --------------------------------------------
 
