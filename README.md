@@ -2,9 +2,9 @@
 
 # WARNING: FBChecker is not working anymore
 
-Kindly check the new version, it's 100% working and very fast.
+Kindly check the new version <a href="https://github.com/yasserjanah/FacebookChecker">Click Here</a>, it's 100% working and very fast.
 
-<a href="https://github.com/yasserjanah/FacebookChecker">Here</a>
+
 
 --------------------------------------------
 
