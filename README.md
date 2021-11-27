@@ -1,3 +1,14 @@
+
+
+# WARNING: FBChecker is not working anymore
+
+Kindly check the new version, it's 100% working and very fast.
+
+[HERE] (https://github.com/yasserjanah/FacebookChecker)
+
+--------------------------------------------
+
+
 # FB checker
 Check if an email OR phone number OR a facebook username if is associated with a facebook account , and get some information about the account.
 ```
